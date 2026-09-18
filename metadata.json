@@ -1,0 +1,6 @@
+{
+  "name": "RigMaster 3D - Skeleton Practice",
+  "description": "A desktop-grade bone rigging practice studio for 2D character and monster artwork featuring Blender-style controls, parent/offset chains, 3D roll/depth, dual viewports, and FBX/GLTF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
